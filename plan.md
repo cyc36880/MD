@@ -52,4 +52,6 @@
 - 小智AI
 - cc c语言数据结构学习
 - icQbot 程序 DMA 学习
+- 独立出来zs_event，方便移植
+- 异步循环任务编写，依赖zs_event
 
